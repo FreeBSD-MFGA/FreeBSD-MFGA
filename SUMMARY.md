@@ -136,7 +136,7 @@
 
 ## Chapter 13. DTrace
 
-* [13.1 Overview](chapter-13.-dtrace/13.1-overview.md)
+* [13.0 Overview](chapter-13.-dtrace/13.0-overview.md)
 * [13.1 Enabling DTrace](chapter-13.-dtrace/13.1-enabling-dtrace.md)
 * [13.3 Using DTrace](chapter-13.-dtrace/13.3-using-dtrace.md)
 
@@ -183,7 +183,7 @@
 * [17.5 MySQL 8.X](chapter-17.-web-server/17.5-mysql-8.x.md)
 * [17.6 Typecho](chapter-17.-web-server/17.6-typecho.md)
 * [17.7 SSL Configuration](chapter-17.-web-server/17.7-ssl-configuration.md)
-* [17..8 PostgreSQL and pgAdmin4](chapter-17.-web-server/17..8-postgresql-and-pgadmin4.md)
+* [17.8 PostgreSQL and pgAdmin4](chapter-17.-web-server/17.8-postgresql-and-pgadmin4.md)
 
 ## Chapter 18. Raspberry Pi and Embedded
 
