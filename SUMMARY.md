@@ -1,6 +1,6 @@
 # Table of contents
 
-* [FreeBSD 从入门到跑路](README.md)
+* [FreeBSD MGFA](README.md)
 
 ## Chapter 0.1 FreeBSD MFGA
 
@@ -25,7 +25,7 @@
 * [2.1 Comparison of Three Virtual Machines and FreeBSD Versions](chapter-2.-installing-freebsd/2.1-comparison-of-three-virtual-machines-and-freebsd-versions.md)
 * [2.2 FreeBSD 13.0 Installation - Based on Virtual Box](chapter-2.-installing-freebsd/2.2-freebsd-13.0-installation-based-on-virtual-box.md)
 * [2.3 FreeBSD 13.0 Installation - Based on Vmware Workstation Pro 16](chapter-2.-installing-freebsd/2.3-freebsd-13.0-installation-based-on-vmware-workstation-pro-16.md)
-* [2.4 Tencent Cloud Lightweight Cloud and Other Servers  Installation FreeBSD](chapter-2.-installing-freebsd/2.4-tencent-cloud-lightweight-cloud-and-other-servers-installation-freebsd.md)
+* [2.4 Tencent Cloud Lightweight Cloud and Other Servers Installation FreeBSD](chapter-2.-installing-freebsd/2.4-tencent-cloud-lightweight-cloud-and-other-servers-installation-freebsd.md)
 * [2.5 Manual Installation of FreeBSD](chapter-2.-installing-freebsd/2.5-manual-installation-of-freebsd.md)
 * [2.6 ee Usage and Network Configuration](chapter-2.-installing-freebsd/2.6-ee-usage-and-network-configuration.md)
 * [2.7 Common Software and SSH Configuration](chapter-2.-installing-freebsd/2.7-common-software-and-ssh-configuration.md)
@@ -53,7 +53,7 @@
 * [4.2 Installing KDE 5](chapter-4.-desktop-installation/4.2-installing-kde-5.md)
 * [4.3 Installing Gnome](chapter-4.-desktop-installation/4.3-installing-gnome.md)
 * [4.4 Installing Mate](chapter-4.-desktop-installation/4.4-installing-mate.md)
-* [4.5  Installing Xfce](chapter-4.-desktop-installation/4.5-installing-xfce.md)
+* [4.5 Installing Xfce](chapter-4.-desktop-installation/4.5-installing-xfce.md)
 * [4.6 Installing Cinnamon](chapter-4.-desktop-installation/4.6-installing-cinnamon.md)
 * [4.7 Installing Lumina](chapter-4.-desktop-installation/4.7-installing-lumina.md)
 * [4.8 root login desktop](chapter-4.-desktop-installation/4.8-root-login-desktop.md)
@@ -66,7 +66,7 @@
 * [5.1 Fcitx input method framework](chapter-5.-input-method-and-common-software/5.1-fcitx-input-method-framework.md)
 * [5.2 Ibus input method framework](chapter-5.-input-method-and-common-software/5.2-ibus-input-method-framework.md)
 * [5.3 Five-stroke input method](chapter-5.-input-method-and-common-software/5.3-five-stroke-input-method.md)
-* [5.4 Installing Firefox and Chromium ](chapter-5.-input-method-and-common-software/5.4-installing-firefox-and-chromium.md)
+* [5.4 Installing Firefox and Chromium](chapter-5.-input-method-and-common-software/5.4-installing-firefox-and-chromium.md)
 * [5.5 Linux Compatibility Layer](chapter-5.-input-method-and-common-software/5.5-linux-compatibility-layer.md)
 * [5.6 Installing Kingsoft WPS](chapter-5.-input-method-and-common-software/5.6-installing-kingsoft-wps.md)
 * [5.7 Installing QQ](chapter-5.-input-method-and-common-software/5.7-installing-qq.md)
@@ -100,7 +100,7 @@
 
 ## Chapter 9. Jail
 
-* [9.1 Comparing Jail and docker ](chapter-9.-jail/9.1-comparing-jail-and-docker.md)
+* [9.1 Comparing Jail and docker](chapter-9.-jail/9.1-comparing-jail-and-docker.md)
 * [9.2 Jail-related terms](chapter-9.-jail/9.2-jail-related-terms.md)
 * [9.3 Jail configuration](chapter-9.-jail/9.3-jail-configuration.md)
 * [9.4 Jail update](chapter-9.-jail/9.4-jail-update.md)
@@ -160,7 +160,7 @@
 
 ## Chapter 16. Servers
 
-* [16.1  FTP server](chapter-16.-servers/16.1-ftp-server.md)
+* [16.1 FTP server](chapter-16.-servers/16.1-ftp-server.md)
 * [16.2 DHCP server](chapter-16.-servers/16.2-dhcp-server.md)
 * [16.3 Nodejs Related](chapter-16.-servers/16.3-nodejs-related.md)
 * [16.4 DNS Server](chapter-16.-servers/16.4-dns-server.md)
@@ -247,7 +247,7 @@
 * [24.3 bsdinstall and bsdconfig](chapter-24.-freebsd-features/24.3-bsdinstall-and-bsdconfig.md)
 * [24.4 Disabling Sendmail](chapter-24.-freebsd-features/24.4-disabling-sendmail.md)
 * [24.5 Automatic BSDlibc Library Text Generation Using Scripts](chapter-24.-freebsd-features/24.5-automatic-bsdlibc-library-text-generation-using-scripts.md)
-* [24.6  BSD-style make/grep/sed/awk](chapter-24.-freebsd-features/24.6-bsd-style-make-grep-sed-awk.md)
+* [24.6 BSD-style make/grep/sed/awk](chapter-24.-freebsd-features/24.6-bsd-style-make-grep-sed-awk.md)
 
 ## Chapter 25. System Design and Analysis
 
@@ -272,7 +272,7 @@
 * [27.0 Overview](chapter-27.-netbsd/27.0-overview.md)
 * [27.1 Installation and Configuration](chapter-27.-netbsd/27.1-installation-and-configuration.md)
 * [27.2 Source Exchange and Package Manager](chapter-27.-netbsd/27.2-source-exchange-and-package-manager.md)
-* [27.3  Desktop and other software](chapter-27.-netbsd/27.3-desktop-and-other-software.md)
+* [27.3 Desktop and other software](chapter-27.-netbsd/27.3-desktop-and-other-software.md)
 
 ## Chapter 28. DragonFlyBSD
 
