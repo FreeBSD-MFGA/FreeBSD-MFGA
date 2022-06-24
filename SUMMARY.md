@@ -2,67 +2,64 @@
 
 * [FreeBSD 从入门到跑路](README.md)
 
-## 第〇章 FreeBSD 中文社区
+## Chapter 0.1 FreeBSD MFGA
 
-* [第一节 FreeBSD FAQ](di-ling-zhang-freebsd-zhong-wen-she-qu/di-yi-jie-freebsd-faq.md)
-* [第二节 FreeBSD 中文社区（CFC）发展规划](di-ling-zhang-freebsd-zhong-wen-she-qu/di-er-jie-freebsd-zhong-wen-she-qu-cfc-fa-zhan-gui-hua.md)
-* [第三节 FreeBSD 的不足之处](di-ling-zhang-freebsd-zhong-wen-she-qu/di-san-jie-freebsd-de-bu-zu-zhi-chu.md)
-* [第四节 FreeBSD 发行说明](di-ling-zhang-freebsd-zhong-wen-she-qu/di-si-jie-freebsd-fa-hang-shuo-ming.md)
+* [0.1. Deficiencies of FreeBSD](chapter-0.1-freebsd-mfga/0.1.-deficiencies-of-freebsd.md)
 
-## 第一章 走近 FreeBSD
+## Chapter 1. Approaching FreeBSD
 
-* [第一节 什么是 UNIX](di-yi-zhang-zou-jin-freebsd/di-yi-jie-shi-mo-shi-unix.md)
-* [第二节 什么是 Unix-like](di-yi-zhang-zou-jin-freebsd/di-er-jie-shi-mo-shi-lei-unix.md)
-* [第三节 什么是 Linux](di-yi-zhang-zou-jin-freebsd/di-san-jie-shi-mo-shi-linux.md)
-* [第四节 FreeBSD 与其他操作系统](di-yi-zhang-zou-jin-freebsd/di-si-jie-freebsd-yu-qi-ta-cao-zuo-xi-tong.md)
-* [第五节 为什么要使用 FreeBSD](di-yi-zhang-zou-jin-freebsd/di-wu-jie-wei-shi-mo-yao-shi-yong-freebsd.md)
-* [第六节 所谓开源哲学](di-yi-zhang-zou-jin-freebsd/di-liu-jie-suo-wei-kai-yuan-zhe-xue.md)
-* [第七节 其他 BSD 简介](di-yi-zhang-zou-jin-freebsd/di-qi-jie-qi-ta-bsd-jian-jie.md)
-* [第八节 Linux 用户迁移指北](di-yi-zhang-zou-jin-freebsd/di-ba-jie-linux-yong-hu-qian-yi-zhi-bei.md)
-* [第九节 参考资料与贡献者名单](di-yi-zhang-zou-jin-freebsd/di-jiu-jie-can-kao-zi-liao-yu-gong-xian-zhe-ming-dan.md)
-* [第十节 编撰说明](di-yi-zhang-zou-jin-freebsd/di-shi-jie-bian-zhuan-shuo-ming.md)
+* [1.1 What is UNIX](chapter-1.-approaching-freebsd/1.1-what-is-unix.md)
+* [1.2 What is Unix-like](chapter-1.-approaching-freebsd/1.2-what-is-unix-like.md)
+* [1.3 What is Linux](chapter-1.-approaching-freebsd/1.3-what-is-linux.md)
+* [1.4 FreeBSD and Other Operating Systems](chapter-1.-approaching-freebsd/1.4-freebsd-and-other-operating-systems.md)
+* [1.5 Why Use FreeBSD](chapter-1.-approaching-freebsd/1.5-why-use-freebsd.md)
+* [1.6 The so-called open source philosophy](chapter-1.-approaching-freebsd/1.6-the-so-called-open-source-philosophy.md)
+* [1.7 Other BSD Introduction](chapter-1.-approaching-freebsd/1.7-other-bsd-introduction.md)
+* [1.8 Linux User Migration Guidelines](chapter-1.-approaching-freebsd/1.8-linux-user-migration-guidelines.md)
+* [1.9 References and Contributor List](chapter-1.-approaching-freebsd/di-jiu-jie-can-kao-zi-liao-yu-gong-xian-zhe-ming-dan.md)
+* [1.10 Preparation Notes](chapter-1.-approaching-freebsd/1.10-preparation-notes.md)
 
-## 第二章 安装 FreeBSD
+## Chapter 2. Installing FreeBSD
 
-* [第〇节 图解安装](di-er-zhang-an-zhuang-freebsd/di-ling-jie-tu-jie-an-zhuang.md)
-* [第一节 三种虚拟机与 FreeBSD 版本比较](di-er-zhang-an-zhuang-freebsd/di-yi-jie-san-zhong-xu-ni-ji-yu-freebsd-ban-ben-bi-jiao.md)
-* [第二节 FreeBSD 13.0 安装——基于 Virtual Box](di-er-zhang-an-zhuang-freebsd/di-er-jie-freebsd-an-zhuang-ji-yu-virtual-box.md)
-* [第三节 FreeBSD 13.0 安装——基于 Vmware Workstation Pro 16](di-er-zhang-an-zhuang-freebsd/di-san-jie-freebsd-13.0-an-zhuang-ji-yu-vmware-workstation-pro-16.md)
-* [第四节 腾讯云轻量云及其他服务器 dd 安装 FreeBSD](di-er-zhang-an-zhuang-freebsd/di-si-jie-teng-xun-yun-qing-liang-yun-ji-qi-ta-fu-wu-qi-dd-an-zhuang-freebsd.md)
-* [第五节 手动安装 FreeBSD](di-er-zhang-an-zhuang-freebsd/di-wu-jie-shou-dong-an-zhuang-freebsd.md)
-* [第六节 ee 用法及网络配置](di-er-zhang-an-zhuang-freebsd/di-liu-jie-ee-yong-fa-ji-wang-luo-pei-zhi.md)
-* [第七节 常用软件 与 SSH 配置](di-er-zhang-an-zhuang-freebsd/di-qi-jie-chang-yong-ruan-jian-yu-ssh-pei-zhi.md)
-* [第八节 物理机安装与硬件选配](di-er-zhang-an-zhuang-freebsd/di-ba-jie-wu-li-ji-an-zhuang-yu-ying-jian-xuan-pei.md)
-* [第九节 物理机下显卡的配置](di-er-zhang-an-zhuang-freebsd/di-jiu-jie-wu-li-ji-xia-xian-ka-de-pei-zhi.md)
-* [第十节 物理机下触摸板的设置](di-er-zhang-an-zhuang-freebsd/di-shi-jie-wu-li-ji-xia-chu-mo-ban-de-she-zhi.md)
-* [第十一节 物理机声卡与网卡设置](di-er-zhang-an-zhuang-freebsd/di-shi-yi-jie-wu-li-ji-sheng-ka-yu-wang-ka-she-zhi.md)
-* [第十二节 打印机的安装](di-er-zhang-an-zhuang-freebsd/di-shi-er-jie-da-yin-ji-de-an-zhuang.md)
-* [第十三节 无线蓝牙鼠标的设置](di-er-zhang-an-zhuang-freebsd/di-shi-san-jie-wu-xian-lan-ya-shu-biao-de-she-zhi.md)
+* [2.0 Illustrated Installation](chapter-2.-installing-freebsd/2.0-illustrated-installation.md)
+* [2.1 Comparison of Three Virtual Machines and FreeBSD Versions](chapter-2.-installing-freebsd/2.1-comparison-of-three-virtual-machines-and-freebsd-versions.md)
+* [2.2 FreeBSD 13.0 Installation - Based on Virtual Box](chapter-2.-installing-freebsd/2.2-freebsd-13.0-installation-based-on-virtual-box.md)
+* [2.3 FreeBSD 13.0 Installation - Based on Vmware Workstation Pro 16](chapter-2.-installing-freebsd/2.3-freebsd-13.0-installation-based-on-vmware-workstation-pro-16.md)
+* [2.4 Tencent Cloud Lightweight Cloud and Other Servers  Installation FreeBSD](chapter-2.-installing-freebsd/2.4-tencent-cloud-lightweight-cloud-and-other-servers-installation-freebsd.md)
+* [2.5 Manual Installation of FreeBSD](chapter-2.-installing-freebsd/2.5-manual-installation-of-freebsd.md)
+* [2.6 ee Usage and Network Configuration](chapter-2.-installing-freebsd/di-liu-jie-ee-yong-fa-ji-wang-luo-pei-zhi.md)
+* [2.7 Common Software and SSH Configuration](chapter-2.-installing-freebsd/2.7-common-software-and-ssh-configuration.md)
+* [2.8 Physical machine installation and hardware options](chapter-2.-installing-freebsd/2.8-physical-machine-installation-and-hardware-options.md)
+* [2.9 configuration of the graphics card under the physical machine](chapter-2.-installing-freebsd/2.9-configuration-of-the-graphics-card-under-the-physical-machine.md)
+* [2.10 Touchpad settings under the physical machine](chapter-2.-installing-freebsd/2.10-touchpad-settings-under-the-physical-machine.md)
+* [2.11 Physical machine sound card and network card settings](chapter-2.-installing-freebsd/2.11-physical-machine-sound-card-and-network-card-settings.md)
+* [2.12 Installation of the printer](chapter-2.-installing-freebsd/2.12-installation-of-the-printer.md)
+* [2.13 wireless Bluetooth mouse settings](chapter-2.-installing-freebsd/2.13-wireless-bluetooth-mouse-settings.md)
 
-## 第三章 软件源及包管理器
+## Chapter 3. Software Sources and Package Manager
 
-* [第〇节 包管理器概述](di-san-zhang-ruan-jian-yuan-ji-bao-guan-li-qi/di-ling-jie-bao-guan-li-qi-gai-shu.md)
-* [第一节 FreeBSD 镜像站现状](di-san-zhang-ruan-jian-yuan-ji-bao-guan-li-qi/di-yi-jie-freebsd-jing-xiang-zhan-xian-zhuang.md)
-* [第二节 FreeBSD 换源方式](di-san-zhang-ruan-jian-yuan-ji-bao-guan-li-qi/di-er-jie-freebsd-huan-yuan-fang-shi.md)
-* [第三节 gitup 的用法](di-san-zhang-ruan-jian-yuan-ji-bao-guan-li-qi/di-san-jie-gitup-de-yong-fa.md)
-* [第四节 软件包管理器 pkg 的用法](di-san-zhang-ruan-jian-yuan-ji-bao-guan-li-qi/di-si-jie-ruan-jian-bao-guan-li-qi-pkg-de-yong-fa.md)
-* [第五节 通过源代码 ports 方式安装软件](di-san-zhang-ruan-jian-yuan-ji-bao-guan-li-qi/di-wu-jie-tong-guo-yuan-dai-ma-port-fang-shi-an-zhuang-ruan-jian.md)
-* [第六节 通过 DVD 安装软件](di-san-zhang-ruan-jian-yuan-ji-bao-guan-li-qi/di-liu-jie-tong-guo-dvd-an-zhuang-ruan-jian.md)
+* [3.0 Package Manager Overview](chapter-3.-software-sources-and-package-manager/3.0-package-manager-overview.md)
+* [3.1 Status of FreeBSD mirror sites](chapter-3.-software-sources-and-package-manager/3.1-status-of-freebsd-mirror-sites.md)
+* [3.2 FreeBSD Source Exchange Method](chapter-3.-software-sources-and-package-manager/3.2-freebsd-source-exchange-method.md)
+* [3.3 Usage of gitup](chapter-3.-software-sources-and-package-manager/3.3-usage-of-gitup.md)
+* [3.4 Usage of the package manager pkg](chapter-3.-software-sources-and-package-manager/3.4-usage-of-the-package-manager-pkg.md)
+* [3.5 Installing Software via Source Ports](chapter-3.-software-sources-and-package-manager/3.5-installing-software-via-source-ports.md)
+* [3.6 Installing Software via DVD](chapter-3.-software-sources-and-package-manager/3.6-installing-software-via-dvd.md)
 
-## 第四章 桌面安装
+## Chapter 4. Desktop Installation
 
-* [第〇节 概述](di-si-zhang-zhuo-mian-an-zhuang/di-ling-jie-gai-shu.md)
-* [第一节 安装 Xorg](di-si-zhang-zhuo-mian-an-zhuang/di-yi-jie-an-zhuang-xorg.md)
-* [第二节 安装 KDE 5](di-si-zhang-zhuo-mian-an-zhuang/di-er-jie-an-zhuang-kde-5.md)
-* [第三节 安装 Gnome](di-si-zhang-zhuo-mian-an-zhuang/di-san-jie-an-zhuang-gnome.md)
-* [第四节 安装 Mate](di-si-zhang-zhuo-mian-an-zhuang/di-si-jie-an-zhuang-mate.md)
-* [第五节 安装 Xfce](di-si-zhang-zhuo-mian-an-zhuang/di-wu-jie-an-zhuang-xfce.md)
-* [第六节 安装 Cinnamon](di-si-zhang-zhuo-mian-an-zhuang/di-liu-jie-an-zhuang-cinnamon.md)
-* [第七节 安装 Lumina](di-si-zhang-zhuo-mian-an-zhuang/di-qi-jie-an-zhuang-lumina.md)
-* [第八节 root 登录桌面](di-si-zhang-zhuo-mian-an-zhuang/di-ba-jie-root-deng-lu-zhuo-mian.md)
-* [第九节 主题与美化](di-si-zhang-zhuo-mian-an-zhuang/di-jiu-jie-zhu-ti-yu-mei-hua.md)
-* [第十节 远程桌面管理](di-si-zhang-zhuo-mian-an-zhuang/di-shi-jie-yuan-cheng-zhuo-mian-guan-li.md)
-* [第十一节 安装 Wayland （可选）](di-si-zhang-zhuo-mian-an-zhuang/di-shi-yi-jie-an-zhuang-wayland-ke-xuan.md)
+* [4.0 Overview](chapter-4.-desktop-installation/4.0-overview.md)
+* [4.1 Installing Xorg](chapter-4.-desktop-installation/4.1-installing-xorg.md)
+* [4.2 Installing KDE 5](chapter-4.-desktop-installation/4.2-installing-kde-5.md)
+* [4.3 Installing Gnome](chapter-4.-desktop-installation/4.3-installing-gnome.md)
+* [4.4 Installing Mate](chapter-4.-desktop-installation/4.4-installing-mate.md)
+* [4.5  Installing Xfce](chapter-4.-desktop-installation/4.5-installing-xfce.md)
+* [4.6 Installing Cinnamon](chapter-4.-desktop-installation/4.6-installing-cinnamon.md)
+* [4.7 Installing Lumina](chapter-4.-desktop-installation/4.7-installing-lumina.md)
+* [4.8 root login desktop](chapter-4.-desktop-installation/4.8-root-login-desktop.md)
+* [4.9 Theme and Beautification](chapter-4.-desktop-installation/di-jiu-jie-zhu-ti-yu-mei-hua.md)
+* [4.10 Remote Desktop Management](chapter-4.-desktop-installation/4.10-remote-desktop-management.md)
+* [4.11 Installing Wayland (optional)](chapter-4.-desktop-installation/4.11-installing-wayland-optional.md)
 
 ## 第五章 输入法及常用软件
 
