@@ -1,105 +1,97 @@
-# FreeBSD 从入门到跑路
+## FreeBSD MFGA
 
-## FreeBSD 中文社区（CFC）版权所有 2022
+## FreeBSD-MFGA Copyright 2022
 
->**注意**
+>**Note**
 >
->**当前网站部署域名为 <https://book.bsdcn.org>，如果当前使用的不是这个域名，请切换到该域名。其他域名不保证可用性。**
+>**The current site deployment domain is <https://book.bsdcn.org>. If you are currently using a domain other than this one, please switch to that domain. Other domains do not guarantee availability.**
 
-## 概述
+## Overview
 
-### 格言
+### Motto
 
-恪守古老的法则，追寻真正的自由。
+Adhere to the ancient laws in pursuit of true freedom.
 
-### 本书定位
+### Positioning of the book
 
-我们的目标并非是 Handbook 的翻译，而是编写一本类似于《鸟哥的 Linux 私房菜：基础学习篇》+《鸟哥的 Linux 私房菜：服务器架设篇》二合一的基于 FreeBSD 的教程。也即本书是 Handbook 的超集。
+Our goal is not to translate the Handbook, but rather to write a FreeBSD-based tutorial similar to Bird's Linux Private Practice: Basic Learning + Bird's Linux Private Practice: Server Setup in one. That is, this book is a superset of the Handbook.
 
-### 编辑指南概要
+### Summary of the Editor's Guide
 
-我们欢迎所有支持 FreeBSD 的人进行编写，并会将其添加到贡献者名单当中。
+All supporters of FreeBSD are welcome to write and will be added to the list of contributors.
 
-[详细的编辑指南，点击此处](https://github.com/FreeBSD-Ask/FreeBSD-Ask/wiki)
+[For a detailed editor's guide, click here](https://github.com/FreeBSD-Ask/FreeBSD-Ask/wiki)
 
-## 前言
+## Preface
 
-### FreeBSD 从入门到跑路
+### FreeBSD MFGA
 
-本书诞生于 2021 年 12 月 19 日。编写目的是 Make FreeBSD Great Again。编写内容为 FreeBSD 的基础与进阶知识。对于章节安排，如果你有一定的 UNIX 基础可以跳过第一章，如果你对 FreeBSD 有一定认识，欢迎你加入我们一起编写本书，贡献自己的力量。
+This book was created on December 19, 2021. It was written with the goal of Making FreeBSD Great Again, and is written to cover the basics and advanced knowledge of FreeBSD. If you have some UNIX knowledge, you can skip the first chapter, but if you have some knowledge of FreeBSD, you are welcome to join us and contribute to this book.
 
-### 内容提要
+### Executive Summary
 
-本书是由 ykla 发起，并由 FreeBSD 中文社区的一些群成员参与编写的《FreeBSD 从入门到跑路》。我们尝试从 0 开始，带领普通人走进 FreeBSD 世界，充分参考了 FreeBSD Handbook，构建了一个完整、科学的目录体系。本书不是一个教程的大杂烩亦或者是大集合，而是为了构建一个自成体系的一本开源书籍。全书共分三十章，既强调了学习 FreeBSD 的必要基础也提供了内核设计与实现等专业性较强的教程。本书可作为高等学校“FreeBSD 操作系统”课程的本科生教材，同时也适合相关专业研究生或计算机技术人员参考阅读。
+This book was started by ykla and written with the participation of some group members of the  FreeBSD MFGA, "FreeBSD from Getting Started to Running". We have attempted to start from zero and lead the average person into the world of FreeBSD, fully referencing the FreeBSD Handbook and building a complete, scientific catalog system. This book is not a hodgepodge of tutorials or a collection of tutorials, but rather an open source book designed to build a self-contained system. The book is divided into thirty chapters, emphasizing the fundamentals necessary for learning FreeBSD as well as providing specialized tutorials on kernel design and implementation. This book can be used as a textbook for undergraduate students in the "FreeBSD Operating System" course in higher education, as well as for graduate students or computer technicians in related fields.
 
-### 开源维护与捐赠
+### Open Source Maintenance and Donations
 
 ![](./.gitbook/assets/proud_donor.gif)
 
-[点此捐赠 FreeBSD 基金会](https://freebsdfoundation.org/donate)
+[Click here to donate to the FreeBSD Foundation](https://freebsdfoundation.org/donate)
 
-为了能够更好地维护本书，我们采用了 Gitbook 平台来进行协作，并使用 Vuepress 来呈现本书。对于无法直接从 GitBook 导出为 PDF 的问题（我们提供了 PDF 的参考版本于 release）以及访问速度慢等问题，我们深感抱歉。我们目前的服务器约 10 美元一个月，如果你想为我们提供捐助，请加入我们的 [TG 群](https://t.me/freebsdba) 或者 QQ 群 319271312。 如果你也想参与编写，具体请参考 [WIKI](https://github.com/FreeBSD-Ask/FreeBSD-Ask/wiki/%E3%80%8AFreeBSD-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E8%B7%91%E8%B7%AF%E3%80%8B%E7%BC%96%E8%BE%91%E6%8C%87%E5%8D%97)，关于贡献者名单请参考第一章 第九节。
+In order to be able to maintain this book better, we have used the Gitbook platform for collaboration and Vuepress to present the book. We apologize for the inability to export directly from GitBook to PDF (we provide a reference version of the PDF in the release) and for the slow access. Our current server is about $10 a month, so if you'd like to contribute, please join our [Telegram group](https://t.me/freebsdba) or QQ group 319271312. If you'd also like to contribute, please see WIKI for details., please refer to Chapter 1, Section 9 for the list of contributors.
 
-**捐赠者:**
+**Donors:**
 
-【FreeBSD 2022 捐赠名单】
+[FreeBSD 2022 Donor List].
 
 <https://docs.qq.com/doc/DSXZ1Q1JOenRzUkp4>
 
-### 激励计划
+### Feedback
 
-【FreeBSD 中文社区 2022 教程 激励计划】
-
-<https://docs.qq.com/doc/DSUJsUFBHTnVWQmtS>
-
-### 意见反馈
-
-由于编写者水平所限，书中缺点和谬误之处自不可免，希望同志们随时提出批评意见，以便修正。你可以利用 Github 的各种交互功能与我们联系：提交 Issue、Pull request 或者加入 QQ 群或 TG 群直接联系（yklaxds AT gmail DOT com）等。
+Due to the limitations of the author, it is inevitable that the book will contain flaws and errors, and we hope that you will feel free to offer criticism so that we can correct them. You can use Github's interactive features to contact us: submit an issue, pull request, or join a QQ group or TG group to contact us directly (yklaxds AT gmail DOT com), etc.
 
 ### TODO / Wishlist
 
-后续还有很多需要完善的工作，包括不限于:
+There is still a lot of work to be done, including but not limited to:
 
-- FreeBSD 14 shell 被统一为 `sh`，教程需要针对其进行统一
-- 整理和上传配置文件和环境
-- 对教程的格式目录进行优化调整
-- 完善目前的空白章节，并对已有内容进行测试校验
-- 积极对外宣传并寻求正式出版
-- 删改外部引用文字/图片等内容或给出规范化的引用声明避免版权问题
-- 因为博通收购 VMware 并作出了诸多商业上的改变，考虑提升 Virtual Box 虚拟机在本文中的地位
-- 对于过于主观性或者没有根据的观点需要进行删除或补充例证
+- The FreeBSD 14 shell has been standardized to `sh`, and tutorials need to be standardized for it
+- Organizing and uploading configuration files and environments
+- Optimize the formatting of the tutorial directory
+- Improve the current blank chapters and test and verify existing content
+- actively promote and seek official publication
+- Remove external references to text/images and other content or give standardized citation statements to avoid copyright issues
+- Consider elevating the Virtual Box virtual machine in this paper because of the many business changes resulting from Broadcom's acquisition of VMware
+- Remove or add examples of ideas that are too subjective or unsupported
 
-### 许可证
+### Licensing
 
-本书采用 BSD-3-Clause License 许可证开源。我们在编写过程吸收了一些现有的研究成果，在此表示感谢。引用本书内容时，请务必留下我们的原地址——<https://book.bsdcn.org> 及署名——FreeBSD 中文社区（CFC）。
+This book is open source under the BSD-3-Clause License. We have incorporated some existing research results in the writing process and would like to acknowledge them here. When quoting from this book, please be sure to leave our original address - <https://book.bsdcn.org> - and attribution - FreeBSD MFGA.
 
 
-## 关于
+## About
 
-### FreeBSD 中文社区的愿景
+### The vision of the FreeBSD MFGA
 
-我们成立于 2018年3月17日，由贴吧——FreeBSD 吧发展到了 QQ 群（主群 319271312），Telegram 群，至于微信群。
+We were founded on March 17, 2018, and have grown from a posting bar - the FreeBSD bar - to a QQ group (main group 319271312), a Telegram group, and as far as a WeChat group.
 
-我们的成员具有非常大的广泛性和普遍性，能够代表绝大多数 FreeBSD 用户的平均水平：他们可能根本没有听说过何为 FreeBSD，但这并不影响我们的交流与沟通。也许有人觉得这是浪费时间，但是没有新生力量的培养，何来 FreeBSD 的明天呢？谁不知道新人可能有很多坏习惯呢。
+Our membership is very broad and universal, representing the average of the vast majority of FreeBSD users: they may not have even heard of what FreeBSD is, but that does not stop us from communicating and exchanging ideas. Some may feel that this is a waste of time, but without the nurturing of new talent, what would FreeBSD be tomorrow? Who doesn't know that newcomers may have many bad habits.
 
-同鲁迅先生说的那样，但愿每个人都是一束光，照亮 FreeBSD 在中国大陆地区前进的光荣的荆棘路。也希望，你可以加入我们，共同组成漫天星光亦或者是莹莹之火。
+As Mr. Lu Xun said, may each person be a beam of light to illuminate the glorious thorny path of FreeBSD's advancement in mainland China. I also hope that you can join us to form a starry sky or a glowing fire.
 
-无穷的远方，无数的人们，都和我有关。
+The infinite distant lands, the countless people, are all related to me.
 
-我曾无数次眺望远山，想要找到一汪清泉，天总是不遂人愿，仍旧是没有找到。
+I have looked into the distant mountains countless times, trying to find a clear spring, but the sky is always not as it should be, still not found.
 
-我们是谁？我们从何而来？我们将去往何方？这些问题永远也不会有结果。
+Who are we? Where did we come from? Where are we going? These questions will never be answered.
 
-我们选择 FreeBSD，是因为想选择一个清晰、明了、可靠、稳固的一个操作系统在工作上给我们带来收益以及在生活中给我们带来乐趣。当然 FreeBSD 还存在很多问题，有待大家积极发现、探讨、完善，社会在进步，技术在进步，热情丝毫不减在持续，未来越来越美好。
+We chose FreeBSD because we wanted a clear, unambiguous, reliable, and solid operating system that would bring us profit in our work and pleasure in our lives. Of course there are still many problems with FreeBSD that need to be actively discovered, explored, and improved. Society is progressing, technology is advancing, enthusiasm is continuing unabated, and the future is getting better and better.
 
-### 其他
+### Other
 
-[FreeBSD Handbook 2022 中文翻译项目](https://handbook.bsdcn.org)
-
-微信公众号: freebsdzh （扫码关注）
+WeChat: freebsdzh (sweep code to follow)
 
 ![](./.gitbook/assets/qrcode_for_gh_3b263cc9b20b_258.jpg)
 
-### 网站部署&维护
+### Website Deployment & Maintenance
 
 Shengyun
