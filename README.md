@@ -38,7 +38,7 @@ This book was started by ykla and written with the participation of some group m
 
 [Click here to donate to the FreeBSD Foundation](https://freebsdfoundation.org/donate)
 
-In order to be able to maintain this book better, we have used the Gitbook platform for collaboration and Vuepress to present the book. We apologize for the inability to export directly from GitBook to PDF (we provide a reference version of the PDF in the release) and for the slow access. Our current server is about $10 a month, so if you'd like to contribute, please join our [Telegram group](https://t.me/freebsdba) or QQ group 319271312. If you'd also like to contribute, please see WIKI for details., please refer to Chapter 1, Section 9 for the list of contributors.
+In order to be able to maintain this book better, we have used the Gitbook platform for collaboration and Vuepress to present the book. We apologize for the inability to export directly from GitBook to PDF (we provide a reference version of the PDF in the release) and for the slow access. Our current server is about $10 a month, so if you'd like to contribute, please join our [Telegram group](https://t.me/FreeBSD_MFGA). If you'd also like to contribute, please see WIKI for details., please refer to Chapter 1, Section 9 for the list of contributors.
 
 **Donors:**
 
@@ -48,7 +48,7 @@ In order to be able to maintain this book better, we have used the Gitbook platf
 
 ### Feedback
 
-Due to the limitations of the author, it is inevitable that the book will contain flaws and errors, and we hope that you will feel free to offer criticism so that we can correct them. You can use Github's interactive features to contact us: submit an issue, pull request, or join a QQ group or TG group to contact us directly (yklaxds AT gmail DOT com), etc.
+Due to the limitations of the author, it is inevitable that the book will contain flaws and errors, and we hope that you will feel free to offer criticism so that we can correct them. You can use Github's interactive features to contact us: submit an issue, pull request, or join a Telegram group to contact us directly (yklaxds AT gmail DOT com), etc.
 
 ### TODO / Wishlist
 
@@ -72,7 +72,7 @@ This book is open source under the BSD-3-Clause License. We have incorporated so
 
 ### The vision of the FreeBSD MFGA
 
-We were founded on March 17, 2018, and have grown from a posting bar - the FreeBSD bar - to a QQ group (main group 319271312), a Telegram group, and as far as a WeChat group.
+We were founded on March 17, 2018, and have grown a Telegram group, and as far as a WeChat group.
 
 Our membership is very broad and universal, representing the average of the vast majority of FreeBSD users: they may not have even heard of what FreeBSD is, but that does not stop us from communicating and exchanging ideas. Some may feel that this is a waste of time, but without the nurturing of new talent, what would FreeBSD be tomorrow? Who doesn't know that newcomers may have many bad habits.
 
