@@ -87,7 +87,3 @@ I have looked into the distant mountains countless times, trying to find a clear
 Who are we? Where did we come from? Where are we going? These questions will never be answered.
 
 We chose FreeBSD because we wanted a clear, unambiguous, reliable, and solid operating system that would bring us profit in our work and pleasure in our lives. Of course there are still many problems with FreeBSD that need to be actively discovered, explored, and improved. Society is progressing, technology is advancing, enthusiasm is continuing unabated, and the future is getting better and better.
-
-### Website Deployment & Maintenance
-
-Shengyun
