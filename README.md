@@ -16,7 +16,7 @@ Adhere to the ancient laws in pursuit of true freedom.
 
 ### Positioning of the book
 
-Our goal is not to translate the Handbook, but rather to write a FreeBSD-based tutorial similar to Bird's Linux Private Practice: Basic Learning + Bird's Linux Private Practice: Server Setup in one. That is, this book is a superset of the Handbook.
+Our goal is not to translate the Handbook, but rather to write a FreeBSD-based tutorial similar to *Linux Private Kitchens: basic learning articles* + *Linux Private Kitchens: Server Setup* in one. That is, this book is a superset of the Handbook.
 
 ### Summary of the Editor's Guide
 
