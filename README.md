@@ -4,7 +4,9 @@
 
 >**Note**
 >
->**The current site deployment domain is <https://book.bsdcn.org>. If you are currently using a domain other than this one, please switch to that domain. Other domains do not guarantee availability.**
+>**The current site deployment domain is [https://mgfa.bsdcn.org](https://mfga.bsdcn.org/) If you are currently using a domain other than this one, please switch to that domain. Other domains do not guarantee availability.**
+>
+>中文版本请看 [https://book.bsdcn.org](https://book.bsdcn.org/).
 
 ## Overview
 
