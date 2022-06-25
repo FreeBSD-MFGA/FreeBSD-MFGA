@@ -136,8 +136,8 @@
 
 ## Chapter 13. DTrace
 
-* [13.0 Overview](chapter-13.-dtrace/13.0-overview.md)
-* [13.1 Enabling DTrace](chapter-13.-dtrace/13.1-enabling-dtrace.md)
+* [13.1 Overview](chapter-13.-dtrace/13.1-overview.md)
+* [13.2 Enabling DTrace](chapter-13.-dtrace/13.2-enabling-dtrace.md)
 * [13.3 Using DTrace](chapter-13.-dtrace/13.3-using-dtrace.md)
 
 ## Chapter 14. Network Management
