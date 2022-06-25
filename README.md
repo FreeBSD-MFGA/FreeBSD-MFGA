@@ -67,7 +67,7 @@ There is still a lot of work to be done, including but not limited to:
 
 ### Licensing
 
-This book is open source under the BSD-3-Clause License. We have incorporated some existing research results in the writing process and would like to acknowledge them here. When quoting from this book, please be sure to leave our original address - <https://book.bsdcn.org> - and attribution - FreeBSD MFGA.
+This book is open source under the BSD-3-Clause License. We have incorporated some existing research results in the writing process and would like to acknowledge them here. When quoting from this book, please be sure to leave our original address - <https://mfga.bsdcn.org> - and attribution - FreeBSD MFGA.
 
 
 ## About
