@@ -22,7 +22,7 @@ Our goal is not to translate the Handbook, but rather to write a FreeBSD-based t
 
 All supporters of FreeBSD are welcome to write and will be added to the list of contributors.
 
-[For a detailed editor's guide, click here](https://github.com/FreeBSD-Ask/FreeBSD-Ask/wiki)
+[For a detailed editor's guide, click here](https://github.com/FreeBSD-MFGA/FreeBSD-MFGA/wiki)
 
 ## Preface
 
