@@ -2,9 +2,9 @@
 
 * [FreeBSD MGFA](README.md)
 
-## Chapter 0.1 FreeBSD MFGA
+## Chapter 0 FreeBSD MFGA
 
-* [0.1. Deficiencies of FreeBSD](chapter-0.1-freebsd-mfga/0.1.-deficiencies-of-freebsd.md)
+* [0.1. Deficiencies of FreeBSD](chapter-0-freebsd-mfga/0.1.-deficiencies-of-freebsd.md)
 
 ## Chapter 1. Approaching FreeBSD
 
@@ -279,10 +279,10 @@
 * [28.0 Overview](chapter-28.-dragonflybsd/28.0-overview.md)
 * [28.1 Installation and Configuration](chapter-28.-dragonflybsd/28.1-installation-and-configuration.md)
 
-## Chapter 29 Desktop Advanced Advancement
+## Chapter 29. Desktop Advanced Advancement
 
-* [29.0 Differences and links between window manager and desktop](chapter-29-desktop-advanced-advancement/29.0-differences-and-links-between-window-manager-and-desktop.md)
-* [29.1 Installing i3wm](chapter-29-desktop-advanced-advancement/29.1-installing-i3wm.md)
-* [29.2 Installing CDE](chapter-29-desktop-advanced-advancement/29.2-installing-cde.md)
-* [29.3 Installing Awesome](chapter-29-desktop-advanced-advancement/29.3-installing-awesome.md)
-* [29.4 Installing FVWM](chapter-29-desktop-advanced-advancement/29.4-installing-fvwm.md)
+* [29.0 Differences and links between window manager and desktop](chapter-29.-desktop-advanced-advancement/29.0-differences-and-links-between-window-manager-and-desktop.md)
+* [29.1 Installing i3wm](chapter-29.-desktop-advanced-advancement/29.1-installing-i3wm.md)
+* [29.2 Installing CDE](chapter-29.-desktop-advanced-advancement/29.2-installing-cde.md)
+* [29.3 Installing Awesome](chapter-29.-desktop-advanced-advancement/29.3-installing-awesome.md)
+* [29.4 Installing FVWM](chapter-29.-desktop-advanced-advancement/29.4-installing-fvwm.md)
