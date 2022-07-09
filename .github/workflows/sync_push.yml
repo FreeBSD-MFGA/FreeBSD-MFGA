@@ -13,7 +13,7 @@ jobs:
       - name: Checkout from repository
         uses: actions/checkout@v3.0.2
       #test
-      - name: Push changes to ykla.github.io
+      - name: Push changes to the ykla.github.io
         uses: dmnemec/copy_file_to_another_repo_action@v1.1.1
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
