@@ -44,7 +44,7 @@ This book was started by ykla and written with the participation of some group m
 
 [Click here to donate to the FreeBSD Foundation](https://freebsdfoundation.org/donate)
 
-In order to be able to maintain this book better, we have used the Gitbook platform for collaboration and Vuepress to present the book. We apologize for the inability to export directly from GitBook to PDF (we provide a reference version of the PDF in the release) and for the slow access. Our current server is about $10 a month, so if you'd like to contribute, please join our [Telegram group](https://t.me/FreeBSD_MFGA). If you'd also like to contribute, please see WIKI for details., please refer to Chapter 1, Section 9 for the list of contributors.
+In order to be able to maintain this book better, we have used the Gitbook platform for collaboration and Vuepress to present the book. We apologize for the inability to export directly from GitBook to PDF (we provide a reference version of the PDF in the release) and for the slow access. Our current server is about $10 a month, so if you'd like to contribute, please join our [Telegram group](https://t.me/freebsdba). If you'd also like to contribute, please see WIKI for details., please refer to Chapter 1, Section 9 for the list of contributors.
 
 **Donors:**
 
@@ -54,7 +54,7 @@ In order to be able to maintain this book better, we have used the Gitbook platf
 
 ### Feedback
 
-Due to the limitations of the author, it is inevitable that the book will contain flaws and errors, and we hope that you will feel free to offer criticism so that we can correct them. You can use Github's interactive features to contact us: submit an issue, pull request, or join a [Telegram group](https://t.me/FreeBSD_MFGA) to contact us directly (yklaxds AT gmail DOT com), etc.
+Due to the limitations of the author, it is inevitable that the book will contain flaws and errors, and we hope that you will feel free to offer criticism so that we can correct them. You can use Github's interactive features to contact us: submit an issue, pull request, or join a [Telegram group](https://t.me/freebsdba) to contact us directly (yklaxds AT gmail DOT com), etc.
 
 ### TODO / Wishlist
 
