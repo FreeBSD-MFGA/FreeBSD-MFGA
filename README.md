@@ -91,3 +91,58 @@ I have looked into the distant mountains countless times, trying to find a clear
 Who are we? Where did we come from? Where are we going? These questions will never be answered.
 
 We chose FreeBSD because we wanted a clear, unambiguous, reliable, and solid operating system that would bring us profit in our work and pleasure in our lives. Of course there are still many problems with FreeBSD that need to be actively discovered, explored, and improved. Society is progressing, technology is advancing, enthusiasm is continuing unabated, and the future is getting better and better.
+
+### Blacklisting
+
+We encountered many difficulties in building the FreeBSD Chinese community: some Arch linux cultists provoked us by saying "Arch is awesome! There were also some people who had never used BSD before, saying that there was no JAVA, no JNI, and no Eclipse in FreeBSD; there were also some Huawei fans who entered the community and tried to start an infighting by using Android's Hongmeng system as a shell. For the community, we have established a blacklist system.
+
+The list is as follows.
+
+#### 2018-2021
+
+|QQ number| reason for blacklisting|
+| :---: | :---: |
+| 3623404390 |Kick down the ladder, get the answer to the question and withdraw from the group, the same below|
+| 554412630 |The administrator gave every student facing the college entrance exam a college entrance exam gift package (permission to the end of the exam) on the eve of the exam in order to prepare for the exam at ease, but he withdrew from the group to avoid permission |
+| 1354998 | Insult BSD and promote Linux |
+| 156798543 |Provoking trouble|
+| 1113749776 |Huawei fan|
+| 2151722905 | Enter the group babbling and pretending to be new, pretending to be stupid, name is database, suspected of being an artificial intelligence, good at asking some messy patchwork of non-existent questions: such as ``assembly language between c languages, there is a language. It was ignored. The whole IT world lost a model for another development. Another example is that one of the rows of the database table can be seen as an argument to a function. This function name, why does not appear in this record line? Is the function name omitted? Does it take this table as a parameter? Does it use the data stream of this table as a parameter? In a broader view, programming languages can construct algebra and geometry. I just haven't thought it through yet. ` and ` framework, what is it? Are they devices? Looking at vue pairs, is it a device? Why, if you go to a computer store, you can buy cpu, memory sticks, and disks. But you can't buy a column? ` and ` assuming println() is a service function that starts with main and doesn't close. The argument stream can be written to at any time. Traditional interpretations of functions may be wrong. Practicality Feasibility masks crudeness absurdity. In all likelihood, it is only right for functions to disable names and functions to disable comments. (However, the pragmatic view does not allow this nowadays). The reality of function namelessness and function de-annotation is unacceptable. ` For more, please submit an issue |
+| 504658598 |Cursing|
+| 3458921559 | Insulting BSD and promoting `ArchLinux`, thinking that BSD has no `JAVA`, no `JNI`, no `Eclipse`, etc. In short, his point is that FreeBSD has nothing and is a piece of crap. The first time I saw it, I was hit in the face and started to provoke the administrator, nicknamed Rainbow Pirates, now called "Damien Sauce", the elitist, whose github address is https://github.com/mingmoe | 
+| 2018456 |Insulting BSD, provoking administrators|
+| 383925617 |huawei fan, Insulting the administrator|
+| 1510908166 |Kick down the ladder|
+| 1771336464 |provoking|
+| 595063679 |Crank and Minzhe. The first thing you need to do is to get a good idea of what you are getting into.|
+| 273459714 |Crank and Minzhe. Put forward historiography that is inconsistent with common sense, dare to imagine Owen science without knowing the philosophy of text translation, and there is no theory of a century, and there is no theory of modern philosophy.|
+| 571060051 | Repeatedly and strangely destroy the atmosphere, whenever someone provokes the administrator will come out to perform, adding fuel to the fire
+| 3303672033 | Open source cult, good at the philosophy of suffering, self-righteous, half a bottle of water wandering, think `LaTeX` in writing novels better than `Word`, think `libreoffice` should not be compatible with `Word`, should be the other way around by `Word` to compatible with him, the classic quote "What makes you say that Libreoffice compatibility is not good? " Why don't you use GIMP, why do you use PS, why do you use Windows 10. The reason for the blacklisting is that the user's name is not the name of the administrator.|
+
+| WeChat name | reason for blacklisting|
+| :---: | :---: |
+|彩虹海盗| Insulting BSD and promoting `ArchLinux`. Others as above|
+
+| Baidu TieBa ID | Reasons for Blacklisting|
+| :----: | :---: |
+| mechrtt | The tutorials of other people pretending to be tutorials written by themselves, shamelessly. The first thing you need to do is to get a good idea of what you're doing.|
+
+
+#### 2022
+
+| QQ number | reason for blacklisting |
+| :---: | :---: |
+| | 1187908617 | Self-righteous. former owner of Ubuntu bar. The first thing you need to do is to get your own personalized information. He has a bit of power, and then he takes it to the extreme, even more presumptuous to say that he has no power. The classic quote: "Either resume the post or step down"; after being pierced: "I just suggest you take it easy"; there are many trumpets, the most is good at sowing discord, is typical of occupying the pit not shit chicory| | 2777184456
+| 2777184456 | Ignoring the results of FreeBSD's promotion and treating it as advertising|
+|1301771| Intentionally violated Group Rule 8 and absconded|
+|369866382|Once said he loved FreeBSD so much that he wanted to get involved in the community, and after asking my opinion, he was given the task of translating the Handbook. After a long time, he said he didn't have time to do it and didn't say why, then he looked at the progress and only translated a small chapter or how many, in any case, it was not finished, asked him if he could finish the small chapter, he firmly said "no", and after paying for its translation reward of a chapter, he stopped talking in the WeChat group. Then one day in the QQ group, he said that running tutorials should not add any root tutorials to sddm, which looks very low-end, and then said he never used it, meaning he wouldn't let others use it either. It's like those who don't use QQ and don't let others use it, but he still honestly used WeChat, and I said it was called "work needs". After that, he was in the group looking for trouble, saying that translating the documentation was pointless, that only idiots would participate, and that FreeBSD was a piece of crap. After being removed from the group, I saw that it was the same person from the WeChat group, Jim Googe, who has now blended in with the rest of the FreeBSD community. The bottom line of not opposing our work is to continue to be in the group|
+|9516665|Playing dumb, suspicious 1301771, hint: QQ digits less than 8 digits are mostly problematic|
+|428819551|Rejecting questionnaires, reaching out to the party, insulting the community|
+|197405656|See 2022 CFC 1 announcement|
+|3142739069|Refused to comply with CFC charter|
+
+| WeChat Name | Reason for Blacklisting |
+| :---: | :---: |
+|占戈哥欠|Alias account of 369866382|
+
+We hope that the major open source communities will take note of this and beware of malicious damage by the above people. Blacklisted users cannot be unblocked.
