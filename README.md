@@ -1,5 +1,10 @@
 # FreeBSD MFGA
 
+>**Warning**
+>
+>**For the record, all references to the word "FreeBSD" or "freebsd" on this site are trademarks of the FreeBSDFoundation and are not associated with others. See [The (unresolved) trademark infringement of FreeBSD](https://book.bsdcn.org/di-0-zhang-freebsd-zhong-wen-she-qu/di-0.5-jie-freebsd-shang-biao-bei-qiang-zhu-yi-shi-wei-jie-jue.html).**
+
+
 ## FreeBSD-MFGA Copyright 2022
 
 >**Note**
